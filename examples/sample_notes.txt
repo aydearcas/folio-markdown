@@ -1,0 +1,7 @@
+Notas de prueba
+
+Marcador: 9281.
+Español: á, é, í, ó, ú, ñ.
+Valores: −2,5; 120; 98.
+
+# Esta línea es texto literal.

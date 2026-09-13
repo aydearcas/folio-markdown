@@ -1,0 +1,2 @@
+-r requirements-base.txt
+docling[easyocr]==2.126.0
